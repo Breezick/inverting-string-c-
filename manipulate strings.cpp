@@ -15,6 +15,8 @@ int main()
 		cout << number[num_len - i];
 
 	}
+	
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
